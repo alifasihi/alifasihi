@@ -12,9 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 
 ###
 
@@ -26,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Ali from Iran<br><br>- 🔭 I work as a freelancer.<br>- 📚 I am studying software engineering<br>- ⚡ I am always learning.</p>
 
 ###
 
