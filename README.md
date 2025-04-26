@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Ali from Iran<br><br>- 🔭 I work as a freelancer.<br>- 📚 I am studying software engineering<br>- ⚡ I am always learning.</p>
+<p align="left">I'm Ali, an 18-year-old software engineer from Iran, passionate about learning, problem-solving, and contributing to the tech community.<br><br>- 🔭 I work as a freelancer.<br>- 📚 I am studying software engineering<br>- ⚡ I am always learning.</p>
 
 ###
 
