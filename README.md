@@ -7,20 +7,37 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
 </a>
 
-<a href="https://www.djangoproject.com/" target="_blank" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="42" height="42"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="display: inline-block;">
+
+
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42"/>
+
+
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42"/>
+
+
+
+
+<a href="https://dotnet.microsoft.com/" target="_blank" style="display: inline-block;">
+
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="42" height="42"/>
+
+
 </a>
 
-<a href="https://www.sqlite.org/" target="_blank" style="display: inline-block;">
-  <img src="https://www.svgrepo.com/show/303229/sqlite.svg" alt="sqlite" width="42" height="42"/>
-</a>
 
-<a href="https://www.postgresql.org/" target="_blank" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
+
+
+
+<a href="https://www.microsoft.com/sql-server" target="_blank" style="display: inline-block;">
+
+
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="42" height="42"/>
+
+
 </a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
